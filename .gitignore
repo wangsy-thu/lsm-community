@@ -1,0 +1,12 @@
+/target/
+/.vscode/
+.*.swp
+.*.swo
+*.png
+*.dot
+/.idea
+.DS_Store
+/.vscode
+/logs/
+/lsm.db/
+/attr.db/
